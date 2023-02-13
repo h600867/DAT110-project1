@@ -54,6 +54,7 @@ public class MessagingServer {
 
 				System.out.println("Messaging server: " + ex.getMessage());
 				ex.printStackTrace();
+
 			}
 		}
 	}
